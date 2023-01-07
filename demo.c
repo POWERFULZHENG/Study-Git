@@ -4,7 +4,7 @@
 int sum(int a,int b)
 {
 	int c = 0;
-	c = a + b ;
+	c = a + b ;//在version1的分支上添加了注释
 	return c;
 }
 int main()
