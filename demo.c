@@ -3,8 +3,8 @@
 
 int sum(int a,int b)
 {
-	int c = 0;
-	return c = a+b;//master所做的修改
+	int c = 0;//在master上添加的注释
+	return c = a+b;//在master所做的修改
 }
 int main()
 {
